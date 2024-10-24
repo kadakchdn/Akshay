@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	
+	<listeners>
+      <listener class-name="utilities.MyTestListener" />
+   </listeners>
+	
+  <test thread-count="5" name="Test">
+	<parameter name="browser" value="EDGE"></parameter>   
+    <classes>
+      <class name="testCases.TC_01_AccouuntRegister"/>
+      <class name="testCases.TC_02_Login"/>
+       <class name="testCases.TC_03_search"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

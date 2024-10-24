@@ -1,0 +1,41 @@
+2024-10-23 00:41:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\irg\eclipse-workspace\ProjectBatch29FrameWork\testng\testng.xml
+
+2024-10-23 00:41:14 INFO  TC_01_AccouuntRegister:24 - clicked on myaccount
+2024-10-23 00:41:15 INFO  TC_01_AccouuntRegister:29 - first name entered
+2024-10-23 00:41:15 INFO  TC_01_AccouuntRegister:34 - password entered
+2024-10-23 00:41:15 INFO  TC_01_AccouuntRegister:37 - page scrolled
+2024-10-23 00:41:26 INFO  TC_01_AccouuntRegister:49 - Test case passed
+2024-10-23 00:44:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\irg\eclipse-workspace\ProjectBatch29FrameWork\testng\testng.xml
+
+2024-10-23 00:44:16 INFO  TC_01_AccouuntRegister:24 - clicked on myaccount
+2024-10-23 00:44:17 INFO  TC_01_AccouuntRegister:29 - first name entered
+2024-10-23 00:44:17 INFO  TC_01_AccouuntRegister:34 - password entered
+2024-10-23 00:44:17 INFO  TC_01_AccouuntRegister:37 - page scrolled
+2024-10-23 00:44:28 INFO  TC_01_AccouuntRegister:49 - Test case passed
+2024-10-23 21:35:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\irg\eclipse-workspace\ProjectBatch29FrameWork\testng\testng.xml
+
+2024-10-23 21:35:40 INFO  TC_01_AccouuntRegister:24 - clicked on myaccount
+2024-10-23 21:35:42 INFO  TC_01_AccouuntRegister:29 - first name entered
+2024-10-23 21:35:47 INFO  TC_01_AccouuntRegister:34 - password entered
+2024-10-23 21:35:48 INFO  TC_01_AccouuntRegister:37 - page scrolled
+2024-10-23 21:36:00 INFO  TC_01_AccouuntRegister:49 - Test case passed
+2024-10-23 21:36:48 INFO  TC_02_Login:38 - Login Test Case Pass
+2024-10-23 22:04:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\irg\eclipse-workspace\ProjectBatch29FrameWork\testng\testng.xml
+
+2024-10-23 22:04:28 INFO  TC_01_AccouuntRegister:24 - clicked on myaccount
+2024-10-23 22:04:30 INFO  TC_01_AccouuntRegister:29 - first name entered
+2024-10-23 22:04:32 INFO  TC_01_AccouuntRegister:34 - password entered
+2024-10-23 22:04:33 INFO  TC_01_AccouuntRegister:37 - page scrolled
+2024-10-23 22:04:45 INFO  TC_01_AccouuntRegister:49 - Test case passed
+2024-10-23 22:08:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\irg\eclipse-workspace\ProjectBatch29FrameWork\testng\testng.xml
+
+2024-10-23 22:08:51 INFO  TC_01_AccouuntRegister:24 - clicked on myaccount
+2024-10-23 22:08:53 INFO  TC_01_AccouuntRegister:29 - first name entered
+2024-10-23 22:08:55 INFO  TC_01_AccouuntRegister:34 - password entered
+2024-10-23 22:08:55 INFO  TC_01_AccouuntRegister:37 - page scrolled
+2024-10-23 22:09:08 INFO  TC_01_AccouuntRegister:49 - Test case passed
